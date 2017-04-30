@@ -10,6 +10,8 @@ var MongoClient = require('mongodb').MongoClient;
 var assert      = require('assert');
 var ObjectId    = require('mongodb').ObjectID;
 
+var db_info = require('./db_info');
+
 var mongodb_url = db_info.mongodb;
 
 var read = function(collection,criteria,projection,callback){
