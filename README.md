@@ -30,12 +30,12 @@ In Node.js, you can require security.js, here is the example:
 
 ##### 2017-04-30
 #### v0.1.0 Providing basic security checking function.
-| ---------------------------------- | --- |
-| JSON Matching | ✓ |
-| Mongodb Injection Checking | ✓ |
-| XSS Checking | ✓ |
-| CSRF Checking | ✓ |
-| Authentication Checking | ✓ |
+| ------------------------------ | --- |
+| JSON Matching                 | ✓   |
+| Mongodb Injection Checking     | ✓   |
+| XSS Checking                  | ✓   |
+| CSRF Checking                 | ✓   |
+| Authentication Checking        | ✓   |
  
 
 ----------------------------------------------------------------------
