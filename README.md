@@ -2,14 +2,14 @@
 NodejsSecurityChecking provide a basic security checking of Node.js.
 It is a entry level Security project and PLEASE DO NOT rely on it.
 
-#DISCLAIMER
+# DISCLAIMER
 ----------------------------------------------------------------------
 The project creator have no responsibility if the project have any bug 
 or it cannot protect your server.
 ----------------------------------------------------------------------
 
 
-##Usage:
+## Usage:
 In Node.js, you can require security.js, here is the example:
 
 	var Security = require('./NodejsSecurityChecking/security');
@@ -18,13 +18,13 @@ In Node.js, you can require security.js, here is the example:
 	var output = Security.checking(input_json,checking_json_array,callback);
 
 
-##History
+## History
 
-####2017-04-28
-####v0.0.0 Project Created with nothing
+#### 2017-04-28
+#### v0.0.0 Project Created with nothing
 
-####2017-04-30
-####v0.1.0 Providing basic security checking function
+#### 2017-04-30
+#### v0.1.0 Providing basic security checking function
 
 
 ----------------------------------------------------------------------
@@ -32,4 +32,4 @@ In Node.js, you can require security.js, here is the example:
 From a Student of Information Engineering,
 The Chinese University of Hong Kong.
 
-###@FYP Server needed.
+### @FYP Server needed.
