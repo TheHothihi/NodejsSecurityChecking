@@ -145,11 +145,10 @@ var mongodb_injection_checking = function(input_json,checking_json_array,user_la
 var XSS_CSRF_checking = function(input_json,checking_json_array,user_language,callback){
 	try{
 		for(var key in checking_json_array){
-				var result = {};
-				result["state"] = language[user_language]["Invalid_Input"];
-				result["auth"] = "yes";
-				callback(result);
-			}
+			var result = {};
+			result["state"] = language[user_language]["Invalid_Input"];
+			result["auth"] = "yes";
+			callback(result);
 		}
 		callback(null);
 	}catch(err){
