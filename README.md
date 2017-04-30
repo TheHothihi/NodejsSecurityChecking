@@ -26,14 +26,21 @@ In Node.js, you can require security.js, here is the example:
 ##### 2017-04-28
 #### v0.0.0 Project Created with nothing.
 
+ 
 
 ##### 2017-04-30
 #### v0.1.0 Providing basic security checking function.
-
+| ---------------------------------- | --- |
+| JSON Matching | ✓ |
+| Mongodb Injection Checking | ✓ |
+| XSS Checking | ✓ |
+| CSRF Checking | ✓ |
+| Authentication Checking | ✓ |
+ 
 
 ----------------------------------------------------------------------
 
-From a Student of Information Engineering,
+From a Student of Information Engineering Department,
 The Chinese University of Hong Kong.
 
 ### @FYP Server needed.
