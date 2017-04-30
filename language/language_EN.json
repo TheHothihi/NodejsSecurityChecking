@@ -1,0 +1,11 @@
+{
+  "The_server_is_offline":"The server is offline.",
+  "Invalid_Input":"Invalid Input.",
+  "Please_login_again":"Please login again.",
+  "No_user_is_found":"No user is found.",
+  "Server_Error":"Server Error",
+  "Max_length":"Max length of input is 200!",
+  "Please_update":"Please update your app.",
+  "Update_success":"Update success!",
+  "Update_fail":"Update fail!"
+}
