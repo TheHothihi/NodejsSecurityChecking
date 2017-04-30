@@ -21,6 +21,7 @@ var read = function(collection,criteria,projection,callback){
           mongodb.close();
           if(!doc){
             err = 0;
+	  }
           callback(err,null);
         }else{
           mongodb.close();

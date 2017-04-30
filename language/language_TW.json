@@ -2,10 +2,10 @@
   "The_server_is_offline":"服務器離線.",
   "Invalid_Input":"無效輸入.",
   "Please_login_again":"請重新登錄.",
-  "No_user_is_found":"找不到用戶",
-  "Server_Error":"服務器錯誤",
-  "Max_length":"輸入的最大長度為200！",
-  "Please_update":"請更新您的應用程序",
-  "Update_success":"更新成功！",
-  "Update_fail":"更新失敗！"
+  "No_user_is_found":"找不到用戶.",
+  "Server_Error":"服務器錯誤.",
+  "Max_length":"輸入的最大長度為200!",
+  "Please_update":"請更新您的應用程序.",
+  "Update_success":"更新成功!",
+  "Update_fail":"更新失敗!"
 }
